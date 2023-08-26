@@ -10,3 +10,7 @@
 🔗 [Laboratório Prático 2 | Dashboard de Vendas, Custo, Margem de Lucro e KPI](/LaboratorioPratico2)
 
 ![Dashboard de Vendas, Custo, Margem de Lucro e KPI](LaboratorioPratico2/Lab2.png)
+
+🔗 [Miniprojeto 1 | Análise de Campanhas de Marketing com Power BI](/Miniprojeto1)
+
+![Análise de Campanhas de Marketing com Power BI](Miniprojeto1/Miniprojeto1.gif)
