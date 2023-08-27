@@ -18,3 +18,7 @@
 🔗 [Miniprojeto 2 | Dashboard Comercial - Performance de Vendas](/Miniprojeto2)
 
 ![Dashboard Comercial - Performance de Vendas](Miniprojeto2/Miniprojeto2.gif)
+
+🔗 [Miniprojeto 3 | Análise de Dados de RH com Power BI](/Miniprojeto3)
+
+![Análise de Dados de RH com Power BI](Miniprojeto3/Miniprojeto3.png)
