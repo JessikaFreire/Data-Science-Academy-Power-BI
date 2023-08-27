@@ -14,3 +14,7 @@
 🔗 [Miniprojeto 1 | Análise de Campanhas de Marketing com Power BI](/Miniprojeto1)
 
 ![Análise de Campanhas de Marketing com Power BI](Miniprojeto1/Miniprojeto1.gif)
+
+🔗 [Miniprojeto 2 | Dashboard Comercial - Performance de Vendas](/Miniprojeto2)
+
+![Dashboard Comercial - Performance de Vendas](Miniprojeto2/Miniprojeto2.gif)
