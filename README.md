@@ -22,3 +22,7 @@
 🔗 [Miniprojeto 3 | Análise de Dados de RH com Power BI](/Miniprojeto3)
 
 ![Análise de Dados de RH com Power BI](Miniprojeto3/Miniprojeto3.png)
+
+🔗 [Miniprojeto 4 | Análise de Dados de Logística](/Miniprojeto4)
+
+![Análise de Dados de Logística](Miniprojeto4/Miniprojeto4.png)
