@@ -26,3 +26,7 @@
 🔗 [Miniprojeto 4 | Análise de Dados de Logística](/Miniprojeto4)
 
 ![Análise de Dados de Logística](Miniprojeto4/Miniprojeto4.png)
+
+🔗 [Miniprojeto 5 | Dashboard de Análise Financeira](/Miniprojeto5)
+
+![Dashboard de Análise Financeira](Miniprojeto5/Miniprojeto5.png)
