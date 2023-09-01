@@ -30,3 +30,7 @@
 🔗 [Miniprojeto 5 | Dashboard de Análise Financeira](/Miniprojeto5)
 
 ![Dashboard de Análise Financeira](Miniprojeto5/Miniprojeto5.png)
+
+🔗 [Laboratório Prático 3 | Balanço Patrimonial com Visual de Matriz no Power BI](/LaboratorioPratico3)
+
+![Balanço Patrimonial com Visual de Matriz no Power BI](LaboratorioPratico3/Lab3.png)
