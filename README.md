@@ -34,3 +34,8 @@
 🔗 [Laboratório Prático 3 | Balanço Patrimonial com Visual de Matriz no Power BI](/LaboratorioPratico3)
 
 ![Balanço Patrimonial com Visual de Matriz no Power BI](LaboratorioPratico3/Lab3.png)
+
+🔗 [Miniprojeto 6 | Dashboard Analítico do Mercado de Ações com Narrativa Inteligente](/Miniprojeto6)
+
+![Dashboard Analítico do Mercado de Ações com Narrativa Inteligente](Miniprojeto6/Miniprojeto6.png)
+
