@@ -39,3 +39,6 @@
 
 ![Dashboard Analítico do Mercado de Ações com Narrativa Inteligente](Miniprojeto6/Miniprojeto6.png)
 
+🔗 [Exercícios 1 e 2 | Análise Estatística no Power BI](/Exercicio)
+
+![Análise Estatística no Power BI](Exercicio/Exercicio.png)
