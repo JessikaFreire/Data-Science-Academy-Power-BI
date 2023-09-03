@@ -42,3 +42,7 @@
 🔗 [Exercícios 1 e 2 | Análise Estatística no Power BI](/Exercicio)
 
 ![Análise Estatística no Power BI](Exercicio/Exercicio.png)
+
+🔗 [Laboratório Prático 4 | Limpeza e Manipulação de Dados com Power BI](/LaboratorioPratico4)
+
+![Limpeza e Manipulação de Dados com Power BI](LaboratorioPratico4/Lab4.gif)
