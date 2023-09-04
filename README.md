@@ -46,3 +46,8 @@
 🔗 [Laboratório Prático 4 | Limpeza e Manipulação de Dados com Power BI](/LaboratorioPratico4)
 
 ![Limpeza e Manipulação de Dados com Power BI](LaboratorioPratico4/Lab4.gif)
+
+🔗 [Laboratório Prático 5 | Manipulação de Dados com Power Query M Language](/LaboratorioPratico5)
+
+![Manipulação de Dados com Power Query M Language](LaboratorioPratico5/Lab5.png)
+
