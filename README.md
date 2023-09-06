@@ -51,3 +51,7 @@
 
 ![Manipulação de Dados com Power Query M Language](LaboratorioPratico5/Lab5.png)
 
+🔗 [Laboratório Prático 6 | Power BI e Banco de Dados](/LaboratorioPratico6)
+
+![Power BI e Banco de Dados](LaboratorioPratico6/Lab6.gif)
+
