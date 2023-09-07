@@ -55,3 +55,7 @@
 
 ![Power BI e Banco de Dados](LaboratorioPratico6/Lab6.gif)
 
+🔗 [Laboratório Prático 7 | Segmentação de Clientes Para a Área de Marketing](/LaboratorioPratico7)
+
+![Segmentação de Clientes Para a Área de Marketing](LaboratorioPratico7/Lab7.png)
+
