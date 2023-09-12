@@ -59,3 +59,11 @@
 
 ![Segmentação de Clientes Para a Área de Marketing](LaboratorioPratico7/Lab7.png)
 
+🔗 [Laboratório Prático 8 | Detecção de Anomalias em Transações Financeiras com Linguagem R e Power BI](/LaboratorioPratico8)
+
+![Detecção de Anomalias em Transações Financeiras com Linguagem R e Power BI](LaboratorioPratico8/Lab8.png)
+
+🔗 [Laboratório Prático 9 | Engenharia de Produção com Power BI e IA - Prevendo a Produção Industrial ao Longo do Tempo](/LaboratorioPratico9)
+
+![Engenharia de Produção com Power BI e IA - Prevendo a Produção Industrial ao Longo do Tempo](LaboratorioPratico9/Lab9.png)
+
